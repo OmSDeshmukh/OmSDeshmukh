@@ -43,7 +43,7 @@ My Introduction
 
 <br/>
 <br/>
-<br/>
+
 ---
 
 ### 📊 Stats
