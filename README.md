@@ -5,9 +5,9 @@
 My Introduction
 
    <p align="left">
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/OmSDeshmukh?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/OmSDeshmukh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/OmSDeshmukh?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/OmSDeshmukh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
@@ -43,13 +43,13 @@ My Introduction
 
 <br/>
 <br/>
-
+<br/>
 ---
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmSDeshmukh&show_icons=true&theme=aura)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmSDeshmukh&show_icons=true&theme=aura)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=OmSDeshmukh&theme=aura&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=OmSDeshmukh&theme=aura&border_radius=4.5)
 
 #
