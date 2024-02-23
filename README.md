@@ -43,3 +43,11 @@ My Introduction
 <br />
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmSDeshmukh&show_icons=true&theme=aura)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=OmSDeshmukh&theme=aura&border_radius=4.5) -->
+
+#
