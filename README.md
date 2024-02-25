@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-My Introduction
+Om Deshmukh | CS student at IIT Dharwad | ML enthusiast & Software developer | Building data-driven solutions and innovative software through ML/DL and coding.
 
    <p align="left">
       <a href="https://github.com/OmSDeshmukh?tab=followers">
